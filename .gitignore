@@ -1,0 +1,7 @@
+.bin/*
+.obj/*
+objects/*
+obj/*
+Temp
+Library
+Logs
